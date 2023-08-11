@@ -9,3 +9,8 @@
 .adjust-font-size{
     font-size: 24px;
 }
+#id-fourth-element{
+    background-color: rgb(53, 150, 42);
+    font-size: 24px;
+    font-weight: bold;
+}
